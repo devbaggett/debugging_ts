@@ -159,7 +159,7 @@
 
 // class Elephant {
 //    constructor(public age: number){}
-//    birthday = () => function(){
+//    birthday = () => {
 //       this.age++;
 //    }
 // }
